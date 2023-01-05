@@ -111,7 +111,7 @@ while True:
             
             
             
-        setelah kita membuat keys ya lalu kita inputkan daftar nilai kedalem modul yg kita buat
+setelah kita membuat keys ya lalu kita inputkan daftar nilai kedalem modul yg kita buat
         
         
 ![Screenshot (92)](https://user-images.githubusercontent.com/115480539/210783873-d2bdca04-9844-4f18-bd4a-a9e209fcb4a6.png)
