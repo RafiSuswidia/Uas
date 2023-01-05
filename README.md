@@ -1,6 +1,6 @@
 # Uas
 
-# Membuat Proogtam Menggunakan Init
+# Membuat Program Menggunakan Init
 
 program menggunakan init ialah program yang berisi daftar list
 
