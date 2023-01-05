@@ -103,6 +103,7 @@ while True:
     
 
             
+![Screenshot (92)](https://user-images.githubusercontent.com/115480539/210784305-000bb229-4239-463f-95b7-6d215babcece.png)
 
             
             
@@ -111,12 +112,9 @@ while True:
             
             
             
+
 setelah kita membuat keys ya lalu kita inputkan daftar nilai kedalem modul yg kita buat
         
-        
-![Screenshot (92)](https://user-images.githubusercontent.com/115480539/210783873-d2bdca04-9844-4f18-bd4a-a9e209fcb4a6.png)
-
-
 modul daftar_nilai yang telah kita buat lalu kita masukkan fungsi itu kedalamnya
 
 oke tapi sebelum itu kita membuat view_nilai seperti modul yg perna kita buat
