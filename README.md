@@ -100,20 +100,10 @@ while True:
             print("Tidak Sesuai Pilihan, Silahkan Pilih Kembali!!\n")
             
             continue
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            ![image](https://user-images.githubusercontent.com/115480539/210783252-19374ccf-9363-4d3b-95c2-4e36e862e7f5.png)
+    
 
-            
+            ![Screenshot (92)](https://user-images.githubusercontent.com/115480539/210783626-9355a503-11c5-4e01-be4a-23c7ed81284a.png)
+
             
             
             
