@@ -102,17 +102,20 @@ while True:
             continue
     
 
-            ![Screenshot (92)](https://user-images.githubusercontent.com/115480539/210783626-9355a503-11c5-4e01-be4a-23c7ed81284a.png)
-
             
+
             
             
            
+            
+            
+            
+            
+        setelah kita membuat keys ya lalu kita inputkan daftar nilai kedalem modul yg kita buat
+        
+        
+![Screenshot (92)](https://user-images.githubusercontent.com/115480539/210783873-d2bdca04-9844-4f18-bd4a-a9e209fcb4a6.png)
 
-            
-            
-            
-            setelah kita membuat keys ya lalu kita inputkan daftar nilai kedalem modul yg kita buat
 
 modul daftar_nilai yang telah kita buat lalu kita masukkan fungsi itu kedalamnya
 
