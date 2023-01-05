@@ -104,7 +104,20 @@ while True:
             
             
             
-            ![image](https://user-images.githubusercontent.com/115480539/210782412-28ced7db-8e86-4564-bb0b-d6039f4102e4.png)
+            
+            
+            
+            
+            
+            
+            
+            ![image](https://user-images.githubusercontent.com/115480539/210783252-19374ccf-9363-4d3b-95c2-4e36e862e7f5.png)
+
+            
+            
+            
+            
+           
 
             
             
