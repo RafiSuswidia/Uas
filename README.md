@@ -34,6 +34,8 @@ print("[ (l)ihat , (t)ambah, (c)ari (u)bah, (h)apus, (k)eluar ] \n")
 
 contoh program:
 
+
+
 from model import daftar_nilai
 from view import view_nilai
 
@@ -68,7 +70,11 @@ while True:
             print("Tidak Sesuai Pilihan, Silahkan Pilih Kembali!!\n")
             continue
             
-            ![image](https://user-images.githubusercontent.com/115480539/210779283-413da1a2-5a8e-477a-b229-bba01ec7b08c.png)
+            
+            
+            ![image](https://user-images.githubusercontent.com/115480539/210782412-28ced7db-8e86-4564-bb0b-d6039f4102e4.png)
+
+            
             
             
             setelah kita membuat keys ya lalu kita inputkan daftar nilai kedalem modul yg kita buat
