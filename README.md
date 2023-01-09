@@ -139,6 +139,8 @@ Dan setelah semuanya jadi, tinggal kita lihat hasil dari program nya
 
 Sekian dari saya Trimakasih
 
+https://drive.google.com/drive/folders/1pgYUFXKuaXgYTxSA7lCcT3SdNzkMZdiO?usp=sharing
+
 
 
 
