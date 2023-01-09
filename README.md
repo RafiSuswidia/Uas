@@ -2,7 +2,7 @@
 
 # Membuat Program Menggunakan Init
 
-program menggunakan init ialah program yang berisi daftar list
+program menggunakan init ialah program yang berisi daftar lis
 
 contoh:
 
@@ -138,6 +138,8 @@ Dan setelah semuanya jadi, tinggal kita lihat hasil dari program nya
 ![image](https://user-images.githubusercontent.com/115480539/210786084-796b2f1c-6178-4842-9d88-675aa5e6340c.png)
 
 Sekian dari saya Trimakasih
+
+
 
 
 
